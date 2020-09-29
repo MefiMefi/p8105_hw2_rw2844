@@ -1,0 +1,71 @@
+RT Journal Article
+A1 Paterson, Ross W
+A1 Brown, Rachel L
+A1 Benjamin, Laura
+A1 Nortley, Ross
+A1 Wiethoff, Sarah
+A1 Bharucha, Tehmina
+A1 Jayaseelan, Dipa L
+A1 Kumar, Guru
+A1 Raftopoulos, Rhian E
+A1 Zambreanu, Laura
+A1 Vivekanandam, Vinojini
+A1 Khoo, Anthony
+A1 Geraldes, Ruth
+A1 Chinthapalli, Krishna
+A1 Boyd, Elena
+A1 Tuzlali, Hatice
+A1 Price, Gary
+A1 Christofi, Gerry
+A1 Morrow, Jasper
+A1 McNamara, Patricia
+A1 McLoughlin, Benjamin
+A1 Lim, Soon Tjin
+A1 Mehta, Puja R
+A1 Levee, Viva
+A1 Keddie, Stephen
+A1 Yong, Wisdom
+A1 Trip, S Anand
+A1 Foulkes, Alexander J M
+A1 Hotton, Gary
+A1 Miller, Thomas D
+A1 Everitt, Alex D
+A1 Carswell, Christopher
+A1 Davies, Nicholas W S
+A1 Yoong, Michael
+A1 Attwell, David
+A1 Sreedharan, Jemeen
+A1 Silber, Eli
+A1 Schott, Jonathan M
+A1 Chandratheva, Arvind
+A1 Perry, Richard J
+A1 Simister, Robert
+A1 Checkley, Anna
+A1 Longley, Nicky
+A1 Farmer, Simon F
+A1 Carletti, Francesco
+A1 Houlihan, Catherine
+A1 Thom, Maria
+A1 Lunn, Michael P
+A1 Spillane, Jennifer
+A1 Howard, Robin
+A1 Vincent, Angela
+A1 Werring, David J
+A1 Hoskote, Chandrashekar
+A1 Jäger, Hans Rolf
+A1 Manji, Hadi
+A1 Zandi, Michael S
+A1 the UCL Queen Square National Hospital for Neurology and Neurosurgery COVID-19 Study Group
+T1 The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings
+JF Brain
+JO Brain
+YR 2020
+DO 10.1093/brain/awaa240
+OP awaa240
+SN 0006-8950
+AB Preliminary clinical data indicate that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection is associated with neurological and neuropsychiatric illness. Responding to this, a weekly virtual coronavirus disease 19 (COVID-19) neurology multi-disciplinary meeting was established at the National Hospital, Queen Square, in early March 2020 in order to discuss and begin to understand neurological presentations in patients with suspected COVID-19-related neurological disorders. Detailed clinical and paraclinical data were collected from cases where the diagnosis of COVID-19 was confirmed through RNA PCR, or where the diagnosis was probable/possible according to World Health Organization criteria. Of 43 patients, 29 were SARS-CoV-2 PCR positive and definite, eight probable and six possible. Five major categories emerged: (i) encephalopathies (n = 10) with delirium/psychosis and no distinct MRI or CSF abnormalities, and with 9/10 making a full or partial recovery with supportive care only; (ii) inflammatory CNS syndromes (n = 12) including encephalitis (n = 2, para- or post-infectious), acute disseminated encephalomyelitis (n = 9), with haemorrhage in five, necrosis in one, and myelitis in two, and isolated myelitis (n = 1). Of these, 10 were treated with corticosteroids, and three of these patients also received intravenous immunoglobulin; one made a full recovery, 10 of 12 made a partial recovery, and one patient died; (iii) ischaemic strokes (n = 8) associated with a pro-thrombotic state (four with pulmonary thromboembolism), one of whom died; (iv) peripheral neurological disorders (n = 8), seven with Guillain-Barré syndrome, one with brachial plexopathy, six of eight making a partial and ongoing recovery; and (v) five patients with miscellaneous central disorders who did not fit these categories. SARS-CoV-2 infection is associated with a wide spectrum of neurological syndromes affecting the whole neuraxis, including the cerebral vasculature and, in some cases, responding to immunotherapies. The high incidence of acute disseminated encephalomyelitis, particularly with haemorrhagic change, is striking. This complication was not related to the severity of the respiratory COVID-19 disease. Early recognition, investigation and management of COVID-19-related neurological disease is challenging. Further clinical, neuroradiological, biomarker and neuropathological studies are essential to determine the underlying pathobiological mechanisms, which will guide treatment. Longitudinal follow-up studies will be necessary to ascertain the long-term neurological and neuropsychological consequences of this pandemic.
+RD 9/24/2020
+UL https://doi.org/10.1093/brain/awaa240
+
+
+
